@@ -1,8 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 2nd Lorem ipsum dolor sit
+title: Dự án thứ 2 
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-02T00:00:00Z
+pubDate: 2023-07-18T00:00:00Z
 imgSrc: '/assets/images/image-post5.jpeg'
 imgAlt: 'Image post 5'
 ---
