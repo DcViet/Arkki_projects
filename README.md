@@ -1,11 +1,10 @@
-# Astro Boilerplate with TypeScript and Tailwind CSS [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
-
+# Astro Boilerplate with TypeScript and Tailwind CSS 
 🚀 Astro Boilerplate is starter code for your blog or portfolio based on Astro
 with Tailwind CSS 3.0. ⚡️ Made with Astro, TypeScript, ESLint, Prettier,
 Tailwind CSS.
 
 Clone this project and use it to create your own Astro blog. You can check the
-[Astro templates demo](https://creativedesignsguru.com/demo/astro-boilerplate/).
+
 
 ## Features
 
@@ -95,7 +94,7 @@ prefer.
 
 Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Astro-boilerplate)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/DcViet/Arkki_projects.git)
 
 ## 🧞 Commands
 
