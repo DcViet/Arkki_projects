@@ -1,0 +1,76 @@
+import {
+  ColorTags,
+  GradientText,
+  Project,
+  Section,
+  Tags,
+} from 'astro-boilerplate-components';
+
+const ProjectList = () => (
+  <Section
+    title={
+      <>
+        Xem thêm <GradientText>Dự án</GradientText>
+      </>
+    }
+  >
+    <div className="flex flex-col gap-6">
+      <Project
+        name="Scrat Journey"
+        description="Bài học nhằm giúp học sinh biết đến thuật ngữ cơ bản, quan trọng và hay
+        gặp khi nói đến Phát triển game nói riêng và Phát triển phần mềm nói chung 
+        (Thuật toán)."
+        link="/"
+        img={{
+          /* src: '/assets/images/project-web-design.png', */
+          src: '/assets/images/imgbin_scrat.png',
+          alt: 'Project Web Design',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>Thuật toán</Tags>
+            <Tags color={ColorTags.LIME}>Game design</Tags>
+            <Tags color={ColorTags.SKY}>Game programing</Tags>
+            <Tags color={ColorTags.ROSE}>DucTruong</Tags>
+          </>
+        }
+      />
+      <Project
+        name="Dancer Party"
+        description="Một hành đông làm cái gì đó xảy ra ! (Event)."
+        link="/"
+        img={{
+          /* src: '/assets/images/project-fire.png', */
+          src: '/assets/images/unicorn-dance.png',
+          alt: 'Project Fire',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.VIOLET}>Event</Tags>
+            <Tags color={ColorTags.EMERALD}>Game programming</Tags>
+            <Tags color={ColorTags.YELLOW}>DucTruong</Tags>
+          </>
+        }
+      />
+      <Project
+        name="Flappy Bird"
+        description="Từ những bước đầu tiên tới sự tinh thông, Flappy Bird là nơi khơi dậy niềm đam mê sáng tạo của các bạn. Bằng cách tận hưởng những event hấp dẫn, các bạn sẽ học cách tạo con chim dễ thương và điều khiển chúng bay qua các ống nước. Nắm vững các event nhấn màn hình, di chuyển và va chạm, bạn sẽ sáng tạo nên trò chơi thú vị và gây nghiện của riêng mình!"
+        link="/"
+        img={{
+          /* src: '/assets/images/project-maps.png', */
+          src: '/assets/images/flappy-bird-icon.png',
+          alt: 'Project Maps',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>Flappy Bird</Tags>
+            <Tags color={ColorTags.INDIGO}>Game programming</Tags>
+            <Tags color={ColorTags.ROSE}>DucTruong</Tags>
+          </>
+        }
+      />
+    </div>
+  </Section>
+);
+
+export { ProjectList };
