@@ -17,8 +17,8 @@ const ProjectList = () => (
     <div className="flex flex-col gap-6">
       <Project
         name="Scrat Journey"
-        description="Bài học nhằm giúp học sinh biết đến thuật ngữ cơ bản, quan trọng và hay
-        gặp khi nói đến Phát triển game nói riêng và Phát triển phần mềm nói chung 
+        description="Bài học giúp bạn tiếp cận đến thuật ngữ cơ bản, quan trọng và sử dụng nhiều
+        khi nói đến Phát triển game nói riêng và Phát triển phần mềm nói chung 
         (Thuật toán)."
         link="/"
         img={{
