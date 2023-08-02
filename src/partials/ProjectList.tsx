@@ -18,7 +18,7 @@ const ProjectList = () => (
       <Project
         name="Scrat's Journey"
         description="Trong Scrat's Journey, bạn sẽ bước chân vào hành trình phiêu lưu cùng Scrat. Tại đây, bạn sẽ được giới thiệu vào một thế giới mã nguồn đơn giản và thú vị, giúp bạn tiếp cận các khái niệm lập trình một cách dễ dàng và tương tác qua các thuật toán thú vị."
-        link="/"
+        link="http://web22k2321880291.rf.gd/"
         img={{
           /* src: '/assets/images/project-web-design.png', */
           src: '/assets/images/imgbin_scrat.png',
