@@ -29,7 +29,7 @@ const ProjectList = () => (
             <Tags color={ColorTags.FUCHSIA}>Thuật toán</Tags>
             <Tags color={ColorTags.LIME}>Game design</Tags>
             <Tags color={ColorTags.SKY}>Game programing</Tags>
-            <Tags color={ColorTags.ROSE}>DucTruong</Tags>
+            /* <Tags color={ColorTags.ROSE}>DucTruong</Tags> */
           </>
         }
       />
