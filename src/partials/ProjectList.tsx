@@ -37,7 +37,7 @@ const ProjectList = () => (
       />
       <Project
         name="Dancer Party"
-        description="Một hành đông làm cái gì đó xảy ra ! (Event)."
+        description="Khám phá thế giới kỳ diệu của mã nguồn!  Bất kỳ ai, dù là người mới bắt đầu hay chưa từng tiếp xúc với lập trình, đều có thể tham gia và sáng tạo theo cách riêng của mình. Tại đây, bạn sẽ tìm hiểu cách tạo ra các trò chơi thú vị, ứng dụng hữu ích và thậm chí đưa ra những ý tưởng mới mẻ. Bạn sẽ khám phá một thế giới đầy màu sắc và không giới hạn với mã nguồn!(Event)."
         link="/"
         img={{
           /* src: '/assets/images/project-fire.png', */
