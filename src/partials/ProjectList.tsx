@@ -16,10 +16,8 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Scrat Journey"
-        description="Bài học giúp bạn tiếp cận đến thuật ngữ cơ bản, quan trọng và sử dụng nhiều
-        khi nói đến Phát triển game nói riêng và Phát triển phần mềm nói chung 
-        (Thuật toán)."
+        name="Scrat's Journey"
+        description="Trong "Scrat's Journey," bạn sẽ bước chân vào hành trình phiêu lưu cùng Scrat. Tại đây, bạn sẽ được giới thiệu vào một thế giới mã nguồn đơn giản và thú vị, giúp bạn tiếp cận các khái niệm lập trình một cách dễ dàng và tương tác qua các thuật toán thú vị."
         link="/"
         img={{
           /* src: '/assets/images/project-web-design.png', */
