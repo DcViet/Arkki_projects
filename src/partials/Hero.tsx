@@ -20,7 +20,7 @@ const Hero = () => (
           <a className="text-cyan-400 hover:underline" href="/">
             Arkki VN
           </a>{' '}
-          dành cho học sinh cấp 2-3. Chương trình gồm{' '}
+          .Chương trình gồm{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             20 dự án
           </a>{' '}
